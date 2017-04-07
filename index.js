@@ -1,6 +1,6 @@
-function celciusToFar(F){
+function celciusToFar(G){
 
-	return (5/9)*(F-32)
+	return (5/9)*(G-32)
 
 	
 }
